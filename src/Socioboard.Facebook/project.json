@@ -1,0 +1,20 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Domain.Socioboard": "1.0.0-*",
+    "NETStandard.Library": "1.6.0"
+  },
+
+  "frameworks": {
+    "net451": {
+      "frameworkAssemblies": {
+      },
+      "dependencies": {
+        "Facebook": "7.0.10-beta",
+        "Newtonsoft.Json": "9.0.1"
+
+      }
+    }
+  }
+}
